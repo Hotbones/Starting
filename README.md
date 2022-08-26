@@ -12,3 +12,6 @@
   * Tip calculator
   * Email extractor
   * Letter Generator 🌱
+
+# helped by 📫
+   projectgurukul.org & Miguel Angel Forero.
